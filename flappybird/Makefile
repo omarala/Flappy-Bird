@@ -16,7 +16,7 @@ all:
 
 # clean
 clean: 
-	rm -r build
+	rm -r *.o
 
 
 
