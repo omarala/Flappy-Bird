@@ -2,7 +2,7 @@
 Simple remake of "Flappy Bird" game in c++ using SFML Library.   
 Feel free to play, see the code and suggest improvements.     
 Note that you can't quit the game while in Pause or Game Over mode.    
-This is also my first c++ project, be indulgent.     
+This is also my first c++ project, please, be indulgent.     
 
 ## To compile    
 You need a SFML version>=2.04.    
